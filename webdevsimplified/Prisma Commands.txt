@@ -1,0 +1,7 @@
+Prisma Commands:
+
+-npx prisma init --datasource-provider "database"(setup prisma)
+
+-npx prisma migrate dev --name migration_name(migrates schemas to a database)
+
+-npx prisma generate(generates a prisma client)
